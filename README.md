@@ -7,5 +7,5 @@
 5. run this command "uvicorn test:app --reload "
 
 #how to run frontend
-#go to frontend directory
-#run "npm start"
+1. go to frontend directory
+2.run "npm start"
